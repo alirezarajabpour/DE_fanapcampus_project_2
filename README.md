@@ -1,5 +1,8 @@
-# DE_miniproject2
+# DE_fanapcampus_project_2
 
+### This project requires setting up three Kafka producers and consumers to run on Ubuntu via cron jobs. These producers and consumers will operate on their respective topics. They will retrieve data from the Random User API, apply transformations to it, and then store and back up the processed data in a PostgreSQL database.
+##
+##
 ## to install requirments in ubuntu:
 `pip install -r requirements.txt `
 
